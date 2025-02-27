@@ -1,5 +1,7 @@
 # Netflix-Clone
 
+Hii..! I'm 𓂀 𝕊𝕦𝕟𝕚𝕝 𝕊𝕙𝕒𝕣𝕞𝕒 𓂀
+
 Netflix Clone project is a great way to provide information about your project, its features, and how to set it up. Below is a sample README template that you can customize according to your project's specifics. This template includes sections for an introduction, features, installation instructions, usage, and more. You can also add animations and special characters to make it visually appealing.
 
 markdown
@@ -72,7 +74,7 @@ Open a Pull Request
 Distributed under the MIT License. See LICENSE for more information.
 
 📞 Contact
-Your Name - Sunil Sharma - Email-sji125378@gmail.com
+Us - Sunil Sharma - Email-sji125378@gmail.com
 
 Project Link: https://github.com/SunilSharma03/netflix-clone
 
