@@ -72,7 +72,7 @@ Open a Pull Request
 Distributed under the MIT License. See LICENSE for more information.
 
 📞 Contact
-Your Name - Sunil Sharma - your.email@example.com
+Your Name - Sunil Sharma - Email-sji125378@gmail.com
 
 Project Link: https://github.com/SunilSharma03/netflix-clone
 
